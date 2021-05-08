@@ -175,7 +175,7 @@ Omlet siamx2
 |             U168                   |     All      |          |  -      |![curse_of_enfeeblement](https://user-images.githubusercontent.com/12781303/101279260-a2a16980-37f3-11eb-8ad2-7f80b6b2add3.png)|
 |             U169                   |     All      |          |  -      |![diamond_block](https://user-images.githubusercontent.com/12781303/101279265-ab923b00-37f3-11eb-8807-9d18d1ccf56e.png)|
 |             U170                   |     All      |          |  -      |![emerald_block](https://user-images.githubusercontent.com/12781303/101279280-c1076500-37f3-11eb-954a-0999d4df1a50.png)|
-|             U171                   |     All      |          |  -      |![firebomb](https://user-images.githubusercontent.com/12781303/101279287-ca90cd00-37f3-11eb-82fd-a5cef3327053.png)|
+|             U171                   |     All      |          |  -      |![image](https://imgur.com/j1WZp7s.jpg)|
 |             U172                   |     All      |          |  -      |![gift](https://user-images.githubusercontent.com/12781303/101279292-d3819e80-37f3-11eb-97ed-915671baf643.png)|
 |             U173                   |     All      |          |  -      |![hazelnutchocolateitem](https://user-images.githubusercontent.com/12781303/101279297-da101600-37f3-11eb-891f-d6e72615ad56.png)|
 |             U174                   |     All      |          |  -      |![mana_flask_large](https://user-images.githubusercontent.com/12781303/101279301-ebf1b900-37f3-11eb-92c7-e5ae0b06ff1a.png)|
