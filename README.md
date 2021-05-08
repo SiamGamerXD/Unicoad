@@ -153,7 +153,7 @@ https://youtu.be/xJIY6p1vPdY
 |             U129                   |     All      |          |  -      |![ender_eye](https://user-images.githubusercontent.com/12781303/100518225-d7456d80-31c2-11eb-8577-8baf79e50414.png)|
 |             U130                   |     All      |          |  -      |![ender_pearl](https://user-images.githubusercontent.com/12781303/100518230-df9da880-31c2-11eb-82cc-e6977023e8b4.png)|
 |             U131                   |     All      |          |  -      |![experience_bottle](https://user-images.githubusercontent.com/12781303/100518269-225f8080-31c3-11eb-8272-383408a457f8.png)|
-|             U132                   |     All      |          |  -      |![image](https://imgur.com/6LaEjST.jpg)|
+|             U132                   |     All      |          |  -      |![image](https://imgur.com/HR7l3ys.jpg)|
 |             U133                   |     All      |          |  -      |![glass_bottle](https://user-images.githubusercontent.com/12781303/100518277-2ab7bb80-31c3-11eb-9d00-668f716c7bec.png)|
 |             U134                   |     All      |          |  -      |![glowstone_dust](https://user-images.githubusercontent.com/12781303/100518280-2db2ac00-31c3-11eb-89b0-b54dec6eef24.png)|
 |             U135                   |     All      |          |  -      |![gold_nugget](https://user-images.githubusercontent.com/12781303/100518284-31463300-31c3-11eb-9a83-b85a3e459b54.png)|
