@@ -3,17 +3,17 @@ Omlet siamx2
 
  #List Unicode
 
-|               Name               |   Platform   | Character | Unicode |                     In game                    |
-|:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
-|             U1                   |     All      |          |  -      |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://user-images.githubusercontent.com/12781303/99870260-63c0c080-2c04-11eb-8429-793f601801d4.jpeg)|
-|             U2                   |     All      |          |  -      |![75EE9994-0F79-466E-8BA5-9CE0FB6B69EE_4_5005_c](https://user-images.githubusercontent.com/12781303/99870440-7b4c7900-2c05-11eb-9820-9ccad88b53d0.jpeg)|
-|             U3                   |     All      |         |  -      |![2EB16FF6-10AC-4054-B588-36ACBBDB431B_4_5005_c](https://user-images.githubusercontent.com/12781303/99870455-8ef7df80-2c05-11eb-910e-6ad87cc7e964.jpeg)|
-|             U4                   |     All      |          |  -      |![45B8D49E-A8C2-4DA1-BACE-7318D7DF5613_4_5005_c](https://user-images.githubusercontent.com/12781303/99870549-6fad8200-2c06-11eb-813f-3532f7d6540d.jpeg)|
-|             U5                   |     All      |          |  -      |![91B27BF1-3249-439A-908A-0097FF2A4C82_4_5005_c](https://user-images.githubusercontent.com/12781303/99870583-d763cd00-2c06-11eb-97db-1c8309d7a7ec.jpeg)|
-|             U6                   |     All      |          |  -      |![158D749C-6201-41CC-8D91-2342BE31E645_4_5005_c](https://user-images.githubusercontent.com/12781303/99870600-fd896d00-2c06-11eb-8428-6e07338cdfac.jpeg)|
-|             U7                   |     All      |          |  -      |![FDE3F440-F41E-4303-B10F-E4BB23F9882D_4_5005_c](https://user-images.githubusercontent.com/12781303/99870602-0bd78900-2c07-11eb-94d9-e1d17f18dd9d.jpeg)|
-|             U8                   |     All      |          |  -      |![76CC2B48-4132-425E-923F-8BA125B244A2_4_5005_c](https://user-images.githubusercontent.com/12781303/99870620-29a4ee00-2c07-11eb-98da-1f7779438b53.jpeg)|
-|             U9                   |     All      |          |  -      |![71E3B5AE-554F-42DF-9D99-00CAFD0324EB_4_5005_c](https://user-images.githubusercontent.com/12781303/99870621-30336580-2c07-11eb-97e6-0c1e2829ce5e.jpeg)|
+|               Name                |   Platform    | Character | Unicode |                     In game                    |
+|:---------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
+|             U1                    |     All      |          |  -      |![9C67195C-C831-4554-B47D-21F384879A1B_4_5005_c](https://user-images.githubusercontent.com/12781303/99870260-63c0c080-2c04-11eb-8429-793f601801d4.jpeg)|
+|             U2                    |     All      |          |  -      |![75EE9994-0F79-466E-8BA5-9CE0FB6B69EE_4_5005_c](https://user-images.githubusercontent.com/12781303/99870440-7b4c7900-2c05-11eb-9820-9ccad88b53d0.jpeg)|
+|             U3                    |     All      |          |  -      |![2EB16FF6-10AC-4054-B588-36ACBBDB431B_4_5005_c](https://user-images.githubusercontent.com/12781303/99870455-8ef7df80-2c05-11eb-910e-6ad87cc7e964.jpeg)|
+|             U4                    |     All      |          |  -      |![45B8D49E-A8C2-4DA1-BACE-7318D7DF5613_4_5005_c](https://user-images.githubusercontent.com/12781303/99870549-6fad8200-2c06-11eb-813f-3532f7d6540d.jpeg)|
+|             U5                    |     All      |          |  -      |![91B27BF1-3249-439A-908A-0097FF2A4C82_4_5005_c](https://user-images.githubusercontent.com/12781303/99870583-d763cd00-2c06-11eb-97db-1c8309d7a7ec.jpeg)|
+|             U6                    |     All      |          |  -      |![158D749C-6201-41CC-8D91-2342BE31E645_4_5005_c](https://user-images.githubusercontent.com/12781303/99870600-fd896d00-2c06-11eb-8428-6e07338cdfac.jpeg)|
+|             U7                    |     All      |          |  -      |![FDE3F440-F41E-4303-B10F-E4BB23F9882D_4_5005_c](https://user-images.githubusercontent.com/12781303/99870602-0bd78900-2c07-11eb-94d9-e1d17f18dd9d.jpeg)|
+|             U8                    |     All      |          |  -      |![76CC2B48-4132-425E-923F-8BA125B244A2_4_5005_c](https://user-images.githubusercontent.com/12781303/99870620-29a4ee00-2c07-11eb-98da-1f7779438b53.jpeg)|
+|             U9                    |     All      |          |  -      |![71E3B5AE-554F-42DF-9D99-00CAFD0324EB_4_5005_c](https://user-images.githubusercontent.com/12781303/99870621-30336580-2c07-11eb-97e6-0c1e2829ce5e.jpeg)|
 |             U10                   |     All      |          |  -      |![image](https://imgur.com/7RPxv0Y.jpg)|
 |             U11                   |     All      |          |  -      |![74AD3042-83AB-46A8-9A6E-ADBB639560EC_4_5005_c](https://user-images.githubusercontent.com/12781303/99870668-93bd9300-2c07-11eb-976c-f3f607343800.jpeg)|
 |             U12                   |     All      |          |  -      |![B0C237BF-E2D3-4EA5-80B8-E6D72FE793E9_4_5005_c](https://user-images.githubusercontent.com/12781303/99870672-9ae4a100-2c07-11eb-92de-cb598609eaad.jpeg)|
@@ -32,8 +32,8 @@ Omlet siamx2
 |             U25                   |     All      |          |  -      |![37C6F7D5-CC9F-4613-9E28-1E44E0523DC1_4_5005_c](https://user-images.githubusercontent.com/12781303/99870833-a08eb680-2c08-11eb-808a-8663ee15f32f.jpeg)|
 |             U26                   |     All      |          |  -      |![5FF1DCA3-0423-46F5-B902-216D210A4E7E_4_5005_c](https://user-images.githubusercontent.com/12781303/99870857-c61bc000-2c08-11eb-800b-eedac7aa9ada.jpeg)|
 |             U27                   |     All      |          |  -      |![B0887911-AD87-4464-B0AC-099F7BAEFB40_4_5005_c](https://user-images.githubusercontent.com/12781303/99870863-ccaa3780-2c08-11eb-9806-adcfdc545b92.jpeg)|
-|             U28                   |     All      |          |  -      |![A709982C-1F13-4649-AF99-8F5BF227E4F5_4_5005_c](https://user-images.githubusercontent.com/12781303/99870866-d9c72680-2c08-11eb-8296-8a159aba0f09.jpeg)|
-|             U29                   |     All      |          |  -      |![D8CFF4B2-E0F9-4C67-9259-EB8B21EC4852_4_5005_c](https://user-images.githubusercontent.com/12781303/99870870-e0559e00-2c08-11eb-9d4f-324e63d39ff8.jpeg)|
+|             U28                   |     All      |          |  -      |![image](https://imgur.com/SSt6Xza.jpg)|
+|             U29                   |     All      |          |  -      |![image](https://imgur.com/XOcFg7o.jpg)|
 |             U30                   |     All      |          |  -      |![C8EB9F45-890E-48FD-A511-02A54360DC47_4_5005_c](https://user-images.githubusercontent.com/12781303/99870875-e77cac00-2c08-11eb-9289-59cce6a14705.jpeg)|
 |             U31                   |     All      |          |  -      |![B27F5BFC-0ECE-4ED2-BA0A-1AC3F05C7C1D_4_5005_c](https://user-images.githubusercontent.com/12781303/99870880-efd4e700-2c08-11eb-8f51-c96c363d5441.jpeg)|
 |             U32                   |     All      |          |  -      |![36752537-B39C-40EA-B972-DD1DE444C82F_4_5005_c](https://user-images.githubusercontent.com/12781303/99870886-f8c5b880-2c08-11eb-98fd-4f926ee0dbeb.jpeg)|
