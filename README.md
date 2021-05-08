@@ -143,7 +143,7 @@ Omlet siamx2
 |             U136                   |     All      |          |  -      |![golden_helmet](https://user-images.githubusercontent.com/12781303/100518308-533fb580-31c3-11eb-89dd-5d6bca1a5a81.png)|
 |             U137                   |     All      |          |  -      |![green_dye](https://user-images.githubusercontent.com/12781303/100518310-55a20f80-31c3-11eb-9435-9046e11260f2.png)|
 |             U138                   |     All      |          |  -      |![honey_bottle](https://user-images.githubusercontent.com/12781303/100518311-589d0000-31c3-11eb-9886-49d2a5eff60d.png)|
-|             U139                   |     All      |          |  -      |![iron_nugget](https://user-images.githubusercontent.com/12781303/100518315-5b97f080-31c3-11eb-8305-b553b39bfea2.png)|
+|             U139                   |     All      |          |  -      |![image](https://imgur.com/CEC8tFD.jpg)|
 |             U140                   |     All      |          |  -      |![lantern](https://user-images.githubusercontent.com/12781303/100518336-779b9200-31c3-11eb-98aa-42589c2b32f4.png)|
 |             U141                   |     All      |          |  -      |![light_blue_dye](https://user-images.githubusercontent.com/12781303/100518339-7d917300-31c3-11eb-85ba-95b849b72488.png)|
 |             U142                   |     All      |          |  -      |![light_gray_dye](https://user-images.githubusercontent.com/12781303/100518341-7f5b3680-31c3-11eb-8de3-1a57ff655bd0.png)|
