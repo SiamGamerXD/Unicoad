@@ -280,7 +280,7 @@ Omlet siamx2
 |             U2A48                  |     All      |    ⨗      |  -      |![tส้่fาffgfgftrgยfgtgtffย](https://user-images.githubusercontent.com/12781303/103542618-c7126380-4ecf-11eb-8440-4442d28f6492.png)|
 |             U2A49                  |     All      |    ⨘      |  -      |![กุญแจ](https://user-images.githubusercontent.com/12781303/103542628-caa5ea80-4ecf-11eb-89f2-eac0031c063f.png)|
 |             U2A50                  |     All      |    ⨙      |  -      |![เวล](https://user-images.githubusercontent.com/12781303/103542636-cc6fae00-4ecf-11eb-9c36-658522a5121c.png)|
-|             U2A51                  |     All      |    ⨚      |  -      |![arrow](https://user-images.githubusercontent.com/12781303/103542642-d0033500-4ecf-11eb-8971-e95e3a0f8efa.png)|
+|             U2A51                  |     All      |    ⨚      |  -      |![image](https://imgur.com/HJqehBp.jpg)|
 |             U2A52                  |     All      |    ⨛      |  -      |![tส้่fาffgfftrยftgtffย](https://user-images.githubusercontent.com/12781303/103542645-d1ccf880-4ecf-11eb-8b4f-235561ca2b9c.png)|
 |             U2A53                  |     All      |    ⨜      |  -      |![blue](https://user-images.githubusercontent.com/12781303/103542648-d42f5280-4ecf-11eb-8e9e-3c892e7755ea.png)|
 |             U2A54                  |     All      |    ⨝      |  -      |![gree](https://user-images.githubusercontent.com/12781303/103542652-d5f91600-4ecf-11eb-8fb5-cee3e34fab56.png)|
