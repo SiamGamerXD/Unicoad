@@ -150,7 +150,7 @@ Omlet siamx2
 |             U143                   |     All      |          |  -      |![magma_cream](https://user-images.githubusercontent.com/12781303/100518343-81bd9080-31c3-11eb-99c7-803f896e3ee0.png)|
 |             U144                   |     All      |          |  -      |![shield](https://user-images.githubusercontent.com/12781303/100518451-22ac4b80-31c4-11eb-9c7d-ab2e09eb27d6.png)|
 |             U145                   |     All      |          |  -      |![shears](https://user-images.githubusercontent.com/12781303/100518453-24760f00-31c4-11eb-802d-066070464644.png)|
-|             U146                   |     All      |          |  -      |![slime_ball](https://user-images.githubusercontent.com/12781303/100518454-2770ff80-31c4-11eb-811a-2eaa070b36dc.png)|
+|             U146                   |     All      |          |  -      |![image](https://imgur.com/gOiO9Ft.jpg)|
 |             U147                   |     All      |          |  -      |![soul_torch_item](https://user-images.githubusercontent.com/12781303/100518456-2a6bf000-31c4-11eb-87be-3a69abcdfa38.png)|
 |             U148                   |     All      |          |  -      |![torch_item](https://user-images.githubusercontent.com/12781303/100518460-2e980d80-31c4-11eb-97f7-dadae6299984.png)|
 |             U149                   |     All      |          |  -      |![!!lfsfa](https://user-images.githubusercontent.com/12781303/101279047-0dea3c00-37f2-11eb-8fbf-f3f47e58e1e3.png)|
