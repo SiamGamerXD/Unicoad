@@ -168,7 +168,7 @@ Omlet siamx2
 |             U161                   |     All      |          |  -      |![astral_diamond](https://user-images.githubusercontent.com/12781303/101279219-548c6600-37f3-11eb-9ef0-b2234279a187.png)|
 |             U162                   |     All      |          |  -      |![cake_rice](https://user-images.githubusercontent.com/12781303/101279222-5bb37400-37f3-11eb-8e80-070cf0912ba3.png)|
 |             U163                   |     All      |          |  -      |![crystal_fire](https://user-images.githubusercontent.com/12781303/101279228-65d57280-37f3-11eb-9406-5a47c0813c3b.png)|
-|             U164                   |     All      |          |  -      |![crystal_flower](https://user-images.githubusercontent.com/12781303/101279235-71289e00-37f3-11eb-94eb-1b1e55203e18.png)|
+|             U164                   |     All      |          |  -      |![image](https://imgur.com/vJV9pPA.jpg)|
 |             U165                   |     All      |          |  -      |![crystal_grand](https://user-images.githubusercontent.com/12781303/101279240-800f5080-37f3-11eb-9a95-b5ed0c51532c.png)|
 |             U166                   |     All      |          |  -      |![crystal_magic](https://user-images.githubusercontent.com/12781303/101279247-8ef60300-37f3-11eb-8efc-b209fcdb2bf5.png)|
 |             U167                   |     All      |          |  -      |![crystal_ore](https://user-images.githubusercontent.com/12781303/101279251-95847a80-37f3-11eb-93fe-6eb1a5643746.png)|
